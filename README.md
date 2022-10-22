@@ -1,2 +1,2 @@
-# typescript-leetcode-top-100-questions
+# typescript-leetcode-top-145-questions
 Work in progress(studying)...
